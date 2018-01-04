@@ -15,3 +15,10 @@
 
 **Thoughts:** Only using pure javascript to work with DOM
 **Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/254fa92dd2336f68d8f3d6c8460fab08d4b03c83)
+
+### Day 03: January 03, Wednesyday
+
+**Today's Progress**: Adding various itens with current date.
+
+**Thoughts:** Do wireframe before code. :V
+**Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/305a1f0859ff0d669415fb95e22bcef2ee6f7d5f)
