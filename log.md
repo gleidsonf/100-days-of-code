@@ -46,7 +46,7 @@
 
 
 
-### Day 05: January 07, Sunday
+### Day 06: January 08, Monday
 
 **Today's Progress**: Refactoring the code to MVC pattern.
 
