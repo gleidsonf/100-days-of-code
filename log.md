@@ -38,9 +38,20 @@
 
 ### Day 05: January 07, Sunday
 
+**Today's Progress**: Still working in ES6. I'm stuck in a query selector, but the application it's 90% finished.
+
+**Thoughts:** Nothing new today.
+
+**Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/19be6456dd86b67b642f07530752fac979257376)
+
+
+
+### Day 05: January 07, Sunday
+
 **Today's Progress**: Refactoring the code to MVC pattern.
 
 **Thoughts:** Finish a course of ES6.
 
-**Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/19be6456dd86b67b642f07530752fac979257376)
+**Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/5c1f01ad6177c295c05017fe1192b85930f9765a)
+
 
