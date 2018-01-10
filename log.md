@@ -55,3 +55,10 @@
 **Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/5c1f01ad6177c295c05017fe1192b85930f9765a)
 
 
+### Day 07: January 09, Tuesday
+
+**Today's Progress**: MVC using ES6 it's finished.
+
+**Thoughts:** Working with ES6 is awesome.
+
+**Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/076861b1cee88a38ddae9c097dbf557ff7dc13b5)
