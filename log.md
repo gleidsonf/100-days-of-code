@@ -62,3 +62,12 @@
 **Thoughts:** Working with ES6 is awesome.
 
 **Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/076861b1cee88a38ddae9c097dbf557ff7dc13b5)
+
+
+### Day 08: January 10, Wednesday
+
+**Today's Progress**: Finished Front-End.
+
+**Thoughts:** I coded last than an hour because I'm too busy with a project from work.
+
+**Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/1d364b94f524c196c85681e2fb922e132b0d9a92)
