@@ -71,3 +71,12 @@
 **Thoughts:** I coded last than an hour because I'm too busy with a project from work.
 
 **Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/1d364b94f524c196c85681e2fb922e132b0d9a92)
+
+
+### Day 09: January 11, Thursday
+
+**Today's Progress**: Link to database, using Sqlite 3.
+
+**Thoughts:** Just work in android/ios
+
+**Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/c39b624bb75e0acd0493d66e1d62d7a45ded62c1)
