@@ -82,7 +82,7 @@
 **Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/c39b624bb75e0acd0493d66e1d62d7a45ded62c1)
 
 
-### Day 10: January 13, Friday
+### Day 10: January 12, Friday
 
 **Today's Progress**: Finished the App for now..
 
