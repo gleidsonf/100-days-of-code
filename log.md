@@ -90,3 +90,12 @@
 
 **Link to work:** [Tasks App](https://github.com/gleidsonf/weekly_tasks/commit/ca3e9a4ea62254f1b3e2301c5165112ed9102a0e)
 
+
+### Day 11: January 13, Saturday
+
+**Today's Progress**: First studies about Angular >= 2.x
+
+**Thoughts:** I hear a lot about Vuejs. But I decided began with Angular by curiosity.
+
+**Link to work:** [Tasks App](https://github.com/gleidsonf/angular-app)
+
