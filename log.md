@@ -97,7 +97,7 @@
 
 **Thoughts:** I hear a lot about Vuejs. But I decided began with Angular by curiosity.
 
-**Link to work:** [Tasks App](https://github.com/gleidsonf/angular-app)
+**Link to work:** [Angular App](https://github.com/gleidsonf/angular-app)
 
 
 ### Day 12: January 14, Sunday
@@ -106,6 +106,14 @@
 
 **Thoughts:** Apply these concepts in an angular project, just for studies.
 
-**Link to work:** [Tasks App](https://github.com/gleidsonf/angular-app)
+**Link to work:** [Angular App](https://github.com/gleidsonf/angular-app)
 
+
+### Day 13: January 15, Monday
+
+**Today's Progress**: Today I don't really coded, but I learned a couple of things reading [angular guide](https://angular.io/guide/forms). Most specifically about forms, validations and bootstraping. 
+
+**Thoughts:** Doesn't make sense just code, without learning and planning.
+
+**Link to work:** [Angular App](https://github.com/gleidsonf/angular-app)
 
