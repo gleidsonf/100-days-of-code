@@ -99,3 +99,13 @@
 
 **Link to work:** [Tasks App](https://github.com/gleidsonf/angular-app)
 
+
+### Day 12: January 14, Sunday
+
+**Today's Progress**: I read about Property binding, style binding, interpolation. 
+
+**Thoughts:** Apply these concepts in an angular project, just for studies.
+
+**Link to work:** [Tasks App](https://github.com/gleidsonf/angular-app)
+
+
