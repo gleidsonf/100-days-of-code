@@ -117,3 +117,12 @@
 
 **Link to work:** [Angular App](https://github.com/gleidsonf/angular-app)
 
+
+### Day 14: January 16, Tuesday
+
+**Today's Progress**: Again, I only read about the project life cycle, structure. Tomorrow I'll read about directives and begin a real project using angular.
+
+**Thoughts:** The project life cycle it's awesome!
+
+**Link to work:** [Angular App](https://github.com/gleidsonf/angular-app)
+
