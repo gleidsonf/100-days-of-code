@@ -126,3 +126,12 @@
 
 **Link to work:** [Angular App](https://github.com/gleidsonf/angular-app)
 
+
+### Day 15: January 17, Wednesday
+
+**Today's Progress**: I started a personal project, my portfolio/blog using javascript technologies
+
+**Thoughts:** I thought about using Rails, but I really want to learn Javascript technologies.
+
+**Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
+
