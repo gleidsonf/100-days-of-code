@@ -136,7 +136,7 @@
 **Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
 
 
-### Day 17: January 19, Friday
+### Day 16: January 19, Friday
 
 **Today's Progress**: Adding components that I'll use in site
 
