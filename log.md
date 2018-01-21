@@ -144,3 +144,11 @@
 
 **Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
 
+
+### Day 17: January 20, Saturday
+
+**Today's Progress**: Update components
+
+**Thoughts:** Nothing new.
+
+**Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
