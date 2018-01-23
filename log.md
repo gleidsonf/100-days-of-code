@@ -158,6 +158,15 @@
 
 **Today's Progress**: Insert some sections to website.
 
-**Thoughts:** Try to integrate with materialize, but dosen't work. So... I'm using bootstrap 4.
+**Thoughts:** Try to integrate with materialize, but doesn't work. So... I'm using bootstrap 4.
+
+**Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
+
+
+### Day 19: January 22, Monday
+
+**Today's Progress**: Update html sections.
+
+**Thoughts:** First I'll write HTML and then CSS.
 
 **Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
