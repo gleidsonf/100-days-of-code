@@ -170,3 +170,12 @@
 **Thoughts:** First I'll write HTML and then CSS.
 
 **Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
+
+
+### Day 20: January 23, Tuesday
+
+**Today's Progress**: Update html.
+
+**Thoughts:** Nothing new.
+
+**Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
