@@ -179,3 +179,12 @@
 **Thoughts:** Nothing new.
 
 **Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
+
+
+### Day 21: January 25, Thursday
+
+**Today's Progress**: Coding CSS.
+
+**Thoughts:** Display properties are very confused. :S
+
+**Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
