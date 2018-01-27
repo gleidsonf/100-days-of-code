@@ -188,3 +188,12 @@
 **Thoughts:** Display properties are very confused. :S
 
 **Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
+
+
+### Day 22: January 26, Friday
+
+**Today's Progress**: Coding work section
+
+**Thoughts:** I have to better my ninjas skills in Front End. 
+
+**Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
