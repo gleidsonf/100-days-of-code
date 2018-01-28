@@ -197,3 +197,12 @@
 **Thoughts:** I have to better my ninjas skills in Front End. 
 
 **Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
+
+
+### Day 23: January 27, Saturday
+
+**Today's Progress**: I finished a course of Angular 2. 
+
+**Thoughts:** I doesn't worked on my site, but I did some cool things using angular in a private project; 
+
+**Link to work:** [Gleidson Ferreira](http://s2.quickmeme.com/img/24/2444a77b36de61c390a9d08b37c3f85e67eecc2c40a806d788a743f18e3d5f1b.jpg)
