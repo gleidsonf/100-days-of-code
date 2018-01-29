@@ -206,3 +206,12 @@
 **Thoughts:** I doesn't worked on my site, but I did some cool things using angular in a private project; 
 
 **Link to work:** [Gleidson Ferreira](http://s2.quickmeme.com/img/24/2444a77b36de61c390a9d08b37c3f85e67eecc2c40a806d788a743f18e3d5f1b.jpg)
+
+
+### Day 24: January 28, Sunday
+
+**Today's Progress**: Back to my site. 
+
+**Thoughts:** Besides the site I intend to create a rails project, to serve as api for my site.
+
+**Link to work:** [Gleidson Ferreira](http://s2.quickmeme.com/img/24/2444a77b36de61c390a9d08b37c3f85e67eecc2c40a806d788a743f18e3d5f1b.jpg)
