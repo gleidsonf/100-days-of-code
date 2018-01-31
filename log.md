@@ -214,4 +214,13 @@
 
 **Thoughts:** Besides the site I intend to create a rails project, to serve as api for my site.
 
-**Link to work:** [Gleidson Ferreira](http://s2.quickmeme.com/img/24/2444a77b36de61c390a9d08b37c3f85e67eecc2c40a806d788a743f18e3d5f1b.jpg)
+**Link to work:** [Gleidson Ferreira](https://github.com/gleidsonf/gleidsonferreira)
+
+
+### Day 25: January 30, Tuesday
+
+**Today's Progress**: Playing with "Faker gem", that provides a lot of fake datas, that includes awesome movies. . 
+
+**Thoughts:** I use this gem in a project to populate database with some parameters. I liked it so much that I spent a lot of time playing with this gem.
+
+**Link to work:** [Gleidson Ferreira]
