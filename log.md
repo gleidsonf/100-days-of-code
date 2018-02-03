@@ -224,3 +224,12 @@
 **Thoughts:** I use this gem in a project to populate database with some parameters. I liked it so much that I spent a lot of time playing with this gem.
 
 **Link to work:** [Gleidson Ferreira]
+
+
+### Day 26: February 02, Friday
+
+**Today's Progress**: Generate graphics using rails 
+
+**Thoughts:** Yesterday I created a dynamic calendar using the fullcalendar plugin, but I forgot to write my log.
+
+**Link to work:** [Gleidson Ferreira]
