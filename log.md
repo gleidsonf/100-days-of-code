@@ -233,3 +233,12 @@
 **Thoughts:** Yesterday I created a dynamic calendar using the fullcalendar plugin, but I forgot to write my log.
 
 **Link to work:** [Gleidson Ferreira]
+
+
+### Day 27: February 03, Saturday
+
+**Today's Progress**: Work on my site again 
+
+**Thoughts:** Updating the blog section. Tomorrow I want to work on contact section.
+
+**Link to work:** [Gleidson Ferreira](https://github.com/gleidson/gleidsonferreira)
