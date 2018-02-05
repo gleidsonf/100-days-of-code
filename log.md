@@ -242,3 +242,12 @@
 **Thoughts:** Updating the blog section. Tomorrow I want to work on contact section.
 
 **Link to work:** [Gleidson Ferreira](https://github.com/gleidson/gleidsonferreira)
+
+
+### Day 28: February 04, Sunday
+
+**Today's Progress**: Started with Ionic 2. 
+
+**Thoughts:** Today I didn't work on my website because I started an Ionic 2 course, which I'm curious about, and I liked it so much that  I didn't even see the time to pass.
+
+**Link to work:** Its pretty amateur to shared :D
