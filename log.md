@@ -251,3 +251,12 @@
 **Thoughts:** Today I didn't work on my website because I started an Ionic 2 course, which I'm curious about, and I liked it so much that  I didn't even see the time to pass.
 
 **Link to work:** Its pretty amateur to shared :D
+
+
+### Day 29: February 05, Monday
+
+**Today's Progress**: Link pages. 
+
+**Thoughts:** Data binding, page transitions.
+
+**Link to work:** Its pretty amateur to shared :D
