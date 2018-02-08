@@ -260,3 +260,12 @@
 **Thoughts:** Data binding, page transitions.
 
 **Link to work:** Its pretty amateur to shared :D
+
+
+### Day 30: February 07, Thursday
+
+**Today's Progress**: Finished an ionic course!
+
+**Thoughts:** Data binding, page transitions, API consume, persistence, build APK.
+
+**Link to work:** Its pretty amateur to shared :D
