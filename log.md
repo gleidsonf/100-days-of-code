@@ -269,3 +269,12 @@
 **Thoughts:** Data binding, page transitions, API consume, persistence, build APK.
 
 **Link to work:** Its pretty amateur to shared :D
+
+
+### Day 31: February 09, Saturday
+
+**Today's Progress**: Incremented a login page to ionic application!
+
+**Thoughts:** Root page, rest API
+
+**Link to work:** Its pretty amateur to shared :D
