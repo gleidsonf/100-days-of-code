@@ -271,10 +271,19 @@
 **Link to work:** Its pretty amateur to shared :D
 
 
-### Day 31: February 09, Saturday
+### Day 31: February 10, Saturday
 
 **Today's Progress**: Incremented a login page to ionic application!
 
 **Thoughts:** Root page, rest API
+
+**Link to work:** Its pretty amateur to shared :D
+
+
+### Day 32: February 10, Sunday
+
+**Today's Progress**: Adding native plugins!
+
+**Thoughts:** Trouble with build :s
 
 **Link to work:** Its pretty amateur to shared :D
