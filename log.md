@@ -280,10 +280,19 @@
 **Link to work:** Its pretty amateur to shared :D
 
 
-### Day 32: February 10, Sunday
+### Day 32: February 11, Sunday
 
 **Today's Progress**: Adding native plugins!
 
 **Thoughts:** Trouble with build :s
+
+**Link to work:** Its pretty amateur to shared :D
+
+
+### Day 33: February 12, Monday
+
+**Today's Progress**: Build a notification feed in rails!
+
+**Thoughts:** Using coffee script and json to display items.
 
 **Link to work:** Its pretty amateur to shared :D
