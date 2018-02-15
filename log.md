@@ -296,3 +296,12 @@
 **Thoughts:** Using coffee script and json to display items.
 
 **Link to work:** Its pretty amateur to shared :D
+
+
+### Day 34: February 14, Wednesday
+
+**Today's Progress**: Learn about animations!
+
+**Thoughts:** Today I readed about transform properties, keyframe.
+
+**Link to work:** Its pretty amateur to shared :D
